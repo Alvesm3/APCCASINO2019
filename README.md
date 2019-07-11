@@ -3,4 +3,4 @@ The casino simulation semester-long project for Application Programming Concepts
 
 This reposistory will serve as a copy of what I worked on for this project, namely for employers.
 
-The group reposiotry lives here 
+The group reposiotry lives here https://github.com/wochoa98/APCCASINO2019
